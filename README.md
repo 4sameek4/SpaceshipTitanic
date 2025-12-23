@@ -3,8 +3,9 @@
 
 This project was developed as part of the Kaggle – Spaceship Titanic competition. The goal is to predict passenger survival outcomes using structured tabular data. The project emphasizes both team collaboration and model comparison, led under a structured project management approach.
 
-Dataset : **https://www.kaggle.com/competitions/spaceship-titanic**
 I served as Project Manager, leading a team of four in designing, implementing, and evaluating multiple machine learning models, as well as developing a supporting website to present results and insights.
+
+Dataset : **https://www.kaggle.com/competitions/spaceship-titanic**
 
 ## 👥 Team & Leadership
 
